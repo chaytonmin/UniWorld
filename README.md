@@ -24,3 +24,11 @@ If this work is helpful for your research, please consider citing the following 
   year={2023}
 }
 ```
+```
+@article{Occupancy-MAE,
+  title={Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders},
+  author={Chen Min, Dawei Zhao, Liang Xiao, Yiming Nie, and Bin Dai}
+  journal={arXiv preprint},
+  year={2023}
+}
+```
